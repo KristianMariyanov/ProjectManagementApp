@@ -1,0 +1,36 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.DotSettings.user
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+*.db-*
+
+# Node / frontend
+node_modules/
+dist/
+.vite/
+*.local
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test results
+TestResults/
+coverage/
+
+# Playwright
+playwright-report/
+test-results/
