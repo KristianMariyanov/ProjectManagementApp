@@ -63,12 +63,3 @@ npm run build
 npm run lint
 npx playwright test
 ```
-
-## Adding Workshop Assets
-
-The facilitator materials, AI instructions, tool configs, playbooks, backlog,
-and review examples live outside this bare skeleton in:
-
-`..\workshop-assets`
-
-See `..\workshop-assets\README.md` for the copy-back commands.
